@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TraversalCoreProje
+build_property.RootNamespace = TraversalCoreProje
+build_property.ProjectDir = C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Destination/DestinationDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25cRGVzdGluYXRpb25EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Destination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/Components/Feature/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmVhdHVyZVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/Components/PopularDestinations/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUG9wdWxhckRlc3RpbmF0aW9uc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/Components/SliderPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2xpZGVyUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/Components/Statistics/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3RhdGlzdGljc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/Components/SubAbout/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU3ViQWJvdXRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/Components/Testimonials/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVzdGltb25pYWxzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/LayoutPartial/FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFBhcnRpYWxcRm9vdGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/LayoutPartial/HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFBhcnRpYWxcSGVhZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/LayoutPartial/NavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFBhcnRpYWxcTmF2YmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/LayoutPartial/ScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFBhcnRpYWxcU2NyaXB0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/_UILayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9VSUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/Asp.NetCore Project/Murat Yücedağ/TraversalCoreProje/TraversalCoreProje/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j6i9wlj8aq

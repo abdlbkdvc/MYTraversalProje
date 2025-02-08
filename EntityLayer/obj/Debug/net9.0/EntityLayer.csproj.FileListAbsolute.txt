@@ -1,0 +1,14 @@
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\bin\Debug\net9.0\EntityLayer.deps.json
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\bin\Debug\net9.0\EntityLayer.runtimeconfig.json
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\bin\Debug\net9.0\EntityLayer.dll
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\bin\Debug\net9.0\EntityLayer.pdb
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\EntityLayer.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\EntityLayer.dll
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\refint\EntityLayer.dll
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\EntityLayer.pdb
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\EntityLayer.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\ref\EntityLayer.dll

@@ -1,0 +1,283 @@
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\owl.carousel.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\css\style-starter.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\css\site.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\app.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\fonts\fontawesome-webfont.svg
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\about.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\app.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\favicon.ico
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.svg
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\jquery.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\starter-license-W3Layouts.txt
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\jquery.zoomslider.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\lightbox-plus-jquery.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\css\style-liberty.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\popper.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\jquery-3.3.1.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\pricing.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\modernizr-2.6.2.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\about.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\contact.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\jquery.waypoints.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\main.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\landing-single.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\liberty-license-W3Layouts.txt
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\jquery.countup.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\jquery.waypoints.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\owl.carousel.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\all.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\lightbox-plus-jquery.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\popper.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\theme-change.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\index.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\contact.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\blog-single.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\bootstrap.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\fonts\FontAwesome.otf
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\services.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\jquery.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\blog.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\services.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\bootstrap.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\all.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\modernizr-2.6.2.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\js\site.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\fonts\FontAwesome.otf
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\index.html
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\Traversal-Liberty\assets\js\jquery.countup.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\theme-change.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\main.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\jquery-3.3.1.min.js
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\TraversalCoreProje\wwwroot\web\assets\js\jquery.zoomslider.min.js
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\Traversal-Liberty\about.html
+wwwroot\Traversal-Liberty\assets\css\style-liberty.css
+wwwroot\Traversal-Liberty\assets\fonts\FontAwesome.otf
+wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.eot
+wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.svg
+wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.ttf
+wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.woff
+wwwroot\Traversal-Liberty\assets\fonts\fontawesome-webfont.woff2
+wwwroot\Traversal-Liberty\assets\images\banner1.jpg
+wwwroot\Traversal-Liberty\assets\images\banner2.jpg
+wwwroot\Traversal-Liberty\assets\images\banner3.jpg
+wwwroot\Traversal-Liberty\assets\images\banner4.jpg
+wwwroot\Traversal-Liberty\assets\images\c1.jpg
+wwwroot\Traversal-Liberty\assets\images\c2.jpg
+wwwroot\Traversal-Liberty\assets\images\c3.jpg
+wwwroot\Traversal-Liberty\assets\images\c4.jpg
+wwwroot\Traversal-Liberty\assets\images\close.png
+wwwroot\Traversal-Liberty\assets\images\date.png
+wwwroot\Traversal-Liberty\assets\images\dots.png
+wwwroot\Traversal-Liberty\assets\images\down.png
+wwwroot\Traversal-Liberty\assets\images\g1.jpg
+wwwroot\Traversal-Liberty\assets\images\g10.jpg
+wwwroot\Traversal-Liberty\assets\images\g2.jpg
+wwwroot\Traversal-Liberty\assets\images\g3.jpg
+wwwroot\Traversal-Liberty\assets\images\g4.jpg
+wwwroot\Traversal-Liberty\assets\images\g5.jpg
+wwwroot\Traversal-Liberty\assets\images\g6.jpg
+wwwroot\Traversal-Liberty\assets\images\g7.jpg
+wwwroot\Traversal-Liberty\assets\images\g8.jpg
+wwwroot\Traversal-Liberty\assets\images\g9.jpg
+wwwroot\Traversal-Liberty\assets\images\img-sprite.png
+wwwroot\Traversal-Liberty\assets\images\team1.jpg
+wwwroot\Traversal-Liberty\assets\images\team2.jpg
+wwwroot\Traversal-Liberty\assets\images\team3.jpg
+wwwroot\Traversal-Liberty\assets\images\team4.jpg
+wwwroot\Traversal-Liberty\assets\js\all.js
+wwwroot\Traversal-Liberty\assets\js\app.js
+wwwroot\Traversal-Liberty\assets\js\bootstrap.min.js
+wwwroot\Traversal-Liberty\assets\js\jquery.countup.js
+wwwroot\Traversal-Liberty\assets\js\jquery.min.js
+wwwroot\Traversal-Liberty\assets\js\jquery.waypoints.min.js
+wwwroot\Traversal-Liberty\assets\js\jquery.zoomslider.min.js
+wwwroot\Traversal-Liberty\assets\js\jquery-3.3.1.min.js
+wwwroot\Traversal-Liberty\assets\js\lightbox-plus-jquery.min.js
+wwwroot\Traversal-Liberty\assets\js\main.js
+wwwroot\Traversal-Liberty\assets\js\modernizr-2.6.2.min.js
+wwwroot\Traversal-Liberty\assets\js\owl.carousel.js
+wwwroot\Traversal-Liberty\assets\js\popper.min.js
+wwwroot\Traversal-Liberty\assets\js\theme-change.js
+wwwroot\Traversal-Liberty\blog.html
+wwwroot\Traversal-Liberty\blog-single.html
+wwwroot\Traversal-Liberty\contact.html
+wwwroot\Traversal-Liberty\index.html
+wwwroot\Traversal-Liberty\landing-single.html
+wwwroot\Traversal-Liberty\liberty-license-W3Layouts.txt
+wwwroot\Traversal-Liberty\pricing.html
+wwwroot\Traversal-Liberty\services.html
+wwwroot\web\about.html
+wwwroot\web\assets\css\style-starter.css
+wwwroot\web\assets\fonts\FontAwesome.otf
+wwwroot\web\assets\fonts\fontawesome-webfont.eot
+wwwroot\web\assets\fonts\fontawesome-webfont.svg
+wwwroot\web\assets\fonts\fontawesome-webfont.ttf
+wwwroot\web\assets\fonts\fontawesome-webfont.woff
+wwwroot\web\assets\fonts\fontawesome-webfont.woff2
+wwwroot\web\assets\images\banner1.jpg
+wwwroot\web\assets\images\banner2.jpg
+wwwroot\web\assets\images\banner3.jpg
+wwwroot\web\assets\images\banner4.jpg
+wwwroot\web\assets\images\c1.jpg
+wwwroot\web\assets\images\c2.jpg
+wwwroot\web\assets\images\c3.jpg
+wwwroot\web\assets\images\c4.jpg
+wwwroot\web\assets\images\close.png
+wwwroot\web\assets\images\date.png
+wwwroot\web\assets\images\dots.png
+wwwroot\web\assets\images\down.png
+wwwroot\web\assets\images\g1.jpg
+wwwroot\web\assets\images\g10.jpg
+wwwroot\web\assets\images\g2.jpg
+wwwroot\web\assets\images\g3.jpg
+wwwroot\web\assets\images\g4.jpg
+wwwroot\web\assets\images\g5.jpg
+wwwroot\web\assets\images\g6.jpg
+wwwroot\web\assets\images\g7.jpg
+wwwroot\web\assets\images\g8.jpg
+wwwroot\web\assets\images\g9.jpg
+wwwroot\web\assets\images\img-sprite.png
+wwwroot\web\assets\images\team1.jpg
+wwwroot\web\assets\images\team2.jpg
+wwwroot\web\assets\images\team3.jpg
+wwwroot\web\assets\images\team4.jpg
+wwwroot\web\assets\js\all.js
+wwwroot\web\assets\js\app.js
+wwwroot\web\assets\js\bootstrap.min.js
+wwwroot\web\assets\js\jquery.countup.js
+wwwroot\web\assets\js\jquery.min.js
+wwwroot\web\assets\js\jquery.waypoints.min.js
+wwwroot\web\assets\js\jquery.zoomslider.min.js
+wwwroot\web\assets\js\jquery-3.3.1.min.js
+wwwroot\web\assets\js\lightbox-plus-jquery.min.js
+wwwroot\web\assets\js\main.js
+wwwroot\web\assets\js\modernizr-2.6.2.min.js
+wwwroot\web\assets\js\owl.carousel.js
+wwwroot\web\assets\js\popper.min.js
+wwwroot\web\assets\js\theme-change.js
+wwwroot\web\contact.html
+wwwroot\web\index.html
+wwwroot\web\services.html
+wwwroot\web\starter-license-W3Layouts.txt
