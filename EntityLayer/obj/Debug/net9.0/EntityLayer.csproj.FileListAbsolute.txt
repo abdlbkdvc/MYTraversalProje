@@ -12,3 +12,4 @@ C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\Traversal
 C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\EntityLayer.pdb
 C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\EntityLayer.genruntimeconfig.cache
 C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\ref\EntityLayer.dll
+C:\Users\abdul\OneDrive\Masaüstü\Asp.NetCore Project\Murat Yücedağ\TraversalCoreProje\EntityLayer\obj\Debug\net9.0\EntityLayer.sourcelink.json

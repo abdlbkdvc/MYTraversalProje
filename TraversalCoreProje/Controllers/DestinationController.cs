@@ -14,10 +14,17 @@ namespace TraversalCoreProje.Controllers
             return View(dataValues);
         }
         [HttpGet]
-        public IActionResult DestinationDetails(int id)
+        public IActionResult DestinationDetails(int id = 1)
         {
-            return View();
+            ViewBag.i = id;
+            var values = dm.TGetByID(id);
+            if (values == null)
+            {
+                return NotFound("id yok");
+            }
+            return View(values);
         }
+
         [HttpPost]
         public IActionResult DestinationDetails(Destination p)
         {
